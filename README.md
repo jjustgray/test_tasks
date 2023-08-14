@@ -22,3 +22,4 @@ if you need and 'Run' scripts
 
 - Run ```python.exe -u task_*.py``` in console
 - 'Run Code' with Code Runner ext. in VSC
+- Your variant :)
